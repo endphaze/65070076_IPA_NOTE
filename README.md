@@ -73,5 +73,10 @@ git clone https://github.com/endphaze/MyGitNote.git
 
 ```bash
 git init
+git echo 'test' > README.md
+git branch -m main 
+git add * ///add file ไป staged เตรียมถ่ายรูป
+git commit -m 'first commit eiei' ถ่ายรูป
+git 
 
 ```
